@@ -1,4 +1,4 @@
-Your README file looks great! Here’s a refined version, incorporating your content while ensuring proper formatting and clarity:
+ README file looks great! Here’s a refined version, incorporating your content while ensuring proper formatting and clarity:
 
 
 # Agriventure - Smart Water Pump Control System
@@ -32,10 +32,7 @@ Follow these steps to set up and run the Agriventure project locally:
 - It is recommended to have [pip](https://pip.pypa.io/en/stable/) installed for package management.
 
 ### Installation
-1. Clone this repository into a folder on your computer:
-   ```bash
-   git clone https://github.com/yourusername/agriventure.git
-   ```
+1. Clone this repository into a folder:
 2. Navigate into the project directory:
    ```bash
    cd agriventure

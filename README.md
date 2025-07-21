@@ -169,28 +169,3 @@ Kaggle Plant Village Dataset:
 [Click Here](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 ---
-
-## 🤝 **Contribution**
-
-1. Fork the repository
-2. Create a new branch
-3. Commit changes
-4. Submit PR
-
----
-
-## 📜 **License**
-
-This project is licensed under **MIT License**.
-
----
-
-🔥 **Attractive Elements Added:**
-✅ Emoji-based sections
-✅ Image placeholders (img1 → img14)
-✅ Highlighted keywords
-✅ Modern formatting with color cues and spacing
-
----
-
-👉 Do you want me to **generate the final Markdown file with proper image tags and style for GitHub**, so you can directly use it? Or should I also **design a banner image for the header**?

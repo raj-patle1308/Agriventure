@@ -3,7 +3,6 @@
 
 # ✅ Smart Irrigation System (Agriventure)
 
-![Header Banner](img1.png)
 
 ---
 
@@ -52,8 +51,6 @@ By integrating **crop type** and **crop size** data, it calculates the **precise
 
 ## 🛠 **Technology Stack**
 
-![Stack](img9.png)
-
 * **Frontend:** HTML, CSS, JavaScript (React.js / Vue.js)
 * **Backend:** Django / Flask
 * **AI & ML:** Plant disease prediction, crop recommendation
@@ -65,7 +62,7 @@ By integrating **crop type** and **crop size** data, it calculates the **precise
 
 ## 🔍 **Technical Approach**
 
-![Technical Approach](img10.png)
+![Technical Approach](https://github.com/user-attachments/assets/eae2f1db-cfb0-4471-ac8e-7699d7e2d844)
 
 ---
 

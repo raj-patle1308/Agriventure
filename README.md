@@ -24,28 +24,28 @@ By integrating **crop type** and **crop size** data, it calculates the **precise
 
 ## ✨ **Key Features**
 
-1. ![AI Icon](img2.png) **AI-Based Plant Disease Prediction**
+1. **AI-Based Plant Disease Prediction**
    Predicts potential plant diseases, enabling **early preventive actions**.
 
-2. ![E-commerce Icon](img3.png) **E-commerce Integration**
+2. **E-commerce Integration**
    Farmers can **purchase seeds, fertilizers, pesticides** through the platform.
 
-3. ![Weather Icon](img4.png) **Weather Updates**
+3. **Weather Updates**
    Real-time weather **forecast & conditions** for smart irrigation planning.
 
-4. ![Soil Icon](img5.png) **Automated Soil Moisture Analysis**
+4. **Automated Soil Moisture Analysis**
    Advises **ON/OFF** pump actions based on **soil moisture level**.
 
-5. ![Crop Icon](img6.png) **Crop Type Analysis**
+5. **Crop Type Analysis**
    Calculates **exact water needs** using **crop type** & **humidity forecast**.
 
-6. ![Security Icon](img7.png) **Security Features**
+6. **Security Features**
 
    * Animal deterrence
    * Unauthorized access alarms
    * CCTV monitoring
 
-7. ![Suggestion Icon](img8.png) **Crop Suggestion Based on Soil Analysis**
+7. **Crop Suggestion Based on Soil Analysis**
    Recommends **best crops** based on soil health.
 
 ---

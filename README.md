@@ -128,35 +128,104 @@ By integrating **crop type** and **crop size** data, it calculates the **precise
 * **User:**
   Username: `yash@gmail.com` | Password: `12345`
 
----
-
-## 🖼 **Screenshots**
-
-:
+Here's an **enhanced and more attractive version** of your **Screenshots section**, with clear titles, formatting, and user-friendly presentation for GitHub or a portfolio:
 
 ---
 
-## 🖼 **Screenshots**
+## 🖼️ **Project Screenshots**
 
-![Dashboard](screenshot/1.jpg)
-![Plant Disease Prediction](screenshot/2.jpg)
-![E-commerce](screenshot/3.jpg)
-![Security Monitoring](screenshot/4.jpg)
-![Dashboard](screenshot/5.jpg)
-![Plant Disease Prediction](screenshot/6.jpg)
-![E-commerce](screenshot/7.jpg)
-![Security Monitoring](screenshot/img4.jpg)
-![Dashboard](screenshot/8.jpg)
-![Plant Disease Prediction](screenshot/9.jpg)
-![E-commerce](screenshot/10.jpg)
-![Security Monitoring](screenshot/11.jpg)
-![Dashboard](screenshot/12.jpg)
-![Plant Disease Prediction](screenshot/13.jpg)
-![E-commerce](screenshot/14.jpg)
-![Security Monitoring](screenshot/15.jpg)
+> A glimpse into the functionality, intelligence, and interface of the **Smart Irrigation System** 🚀
 
 ---
 
+### 🛒 **E-Commerce Interface**
+
+* Seamlessly buy seeds, fertilizers, pesticides, and more.
+  ![E-Commerce Look](screenshot/1.jpg)
+
+---
+
+### 📦 **Order & Services Management**
+
+* Track placed orders and manage service requests.
+  ![Order and Services](screenshot/2.jpg)
+
+---
+
+### 💧 **Crop Water Requirement Chatbot**
+
+* Get personalized irrigation advice based on soil & crop type.
+  ![Crop Water Requirement Chatbot](screenshot/3.jpg)
+
+---
+
+### 🤖 **AI Farming Assistant Chatbot**
+
+* Smart chatbot to answer farming-related queries.
+  ![AI Chatbot for Farming](screenshot/4.jpg)
+
+---
+
+### 🌾 **Crop Recommendation System**
+
+* Suggests best crops based on soil and environmental conditions.
+  ![Crop Recommendation System](screenshot/5.jpg)
+
+---
+
+### 🦠 **Plant Disease Prediction**
+
+* Upload leaf images to detect plant diseases with AI.
+  ![Plant Disease Prediction](screenshot/6.jpg)
+
+---
+
+### ☁️ **Live Weather Forecast**
+
+* Real-time temperature, rainfall, humidity data.
+  ![Live Weather](screenshot/7.jpg)
+
+---
+
+### 🚿 **Irrigation Advice**
+
+* Recommends whether to **turn ON/OFF** the pump based on forecast.
+  ![Weather-Based Pump Recommendation](screenshot/8.jpg)
+
+---
+
+### 💬 **Water Requirement – Chatbot View**
+
+* Conversational interface for farmers to know water needs instantly.
+  ![Water Requirement Chatbot](screenshot/9.jpg)
+
+---
+
+### 🧑‍🌾 **Farmer Dashboard & UI Interface**
+
+* Clean, responsive dashboard for all operations.
+  ![](screenshot/10.jpg)
+
+---
+
+### 🔌 **Circuit Diagram**
+
+* Complete circuit layout of IoT hardware setup.
+  ![Circuit Diagram](screenshot/13.jpg)
+
+---
+
+### 📊 **IoT Dashboard**
+
+* Real-time sensor monitoring and automation panel.
+  ![IoT Dashboard](screenshot/14.jpg)
+
+---
+
+### ⚡ **Circuit Connections Snapshot**
+
+* Visual representation of connections with microcontroller.
+  ![Circuit Connections](screenshot/15.jpg)
 
 ---
 
